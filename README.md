@@ -31,7 +31,7 @@ This project aims to:
    - Connect the **joystick** to the ESP32 TTGO.
    - Connect the **button** to reset the game when pressed.
    - Connect the **potentiometer** to set the game speed when starting.
-   - Connect the **LEd** to flash when reaching a milstone,
+   - Connect the **LED** to flash when reaching a milstone,
    - A Fritzing diagram of my circuit has been provided below.
 <img width="743" alt="Screenshot 2024-10-27 at 5 20 59 PM" src="https://github.com/user-attachments/assets/80dc597f-4541-4559-af3f-bba3b0febaea">
 
@@ -40,12 +40,12 @@ This project aims to:
    - `Adafruit_ST7789`
 
 3. **Upload Arduino Code**:
-   - Open Arduino IDE, load `Dino.ino`, and upload.
+   - Open Arduino IDE, load `dino.ino`, and upload.
    - Set the board to ESP32 TTGO T-Display and the correct COM port.
    - Compile and upload the code.
   
 3. **Upload Processing Code**:
-   - For visualization, open `Dino_Game.pd` in Processing IDE.
+   - For visualization, open `dino_Game.pd` in Processing IDE.
    - Run the Processing sketch after the game is running on the ESP32 TTGO.
   
 ## Gameplay
