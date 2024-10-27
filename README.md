@@ -45,7 +45,7 @@ This project aims to:
    - Compile and upload the code.
   
 3. **Upload Processing Code**:
-   - For visualization, open `dino_Game.pd` in Processing IDE.
+   - For visualization, open `dino_game.pd` in Processing IDE.
    - Run the Processing sketch after the game is running on the ESP32 TTGO.
   
 ## Gameplay
