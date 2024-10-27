@@ -1,4 +1,4 @@
-# Module-2-Interactive-Devices---Dino-Game
+# Module 2 Interactive Devices: Dino Game
 Inspired by Chrome's offline Dinosaur game, Dino game is an interactive game where player guides a pixelated t-rex across a side-scrolling landscape, avoiding obstacles to achieve a higher score. The game is controlled using an ESP32 TTGO T-display with joystick, button, and potentiometer input. This README will guide you through replicating the design, installation, and setup.
 
 ### Project Overview
