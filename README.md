@@ -40,12 +40,12 @@ This project aims to:
    - `Adafruit_ST7789`
 
 3. **Upload Arduino Code**:
-   - Open Arduino IDE, load `Dino_Game.ino`, and upload.
+   - Open Arduino IDE, load `Dino.ino`, and upload.
    - Set the board to ESP32 TTGO T-Display and the correct COM port.
    - Compile and upload the code.
   
 3. **Upload Processing Code**:
-   - For visualization, open Dino_Game.pde in Processing IDE.
+   - For visualization, open `Dino_Game.pd` in Processing IDE.
    - Run the Processing sketch after the game is running on the ESP32 TTGO.
   
 ## Gameplay
