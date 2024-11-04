@@ -17,6 +17,12 @@ This project aims to:
 - **Speed Adjustment**: Speed increases over time.
 - **Start and Replay Game**: Use button or joystick button to start or replay the game.
 - **PNG Files**: Use PNG files to represent different dino positions and objects in the game.
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWoybXpiaXBhaXZybGUyYTRub2MwdjljZG8za2hvNm96ZnpuZ3A4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GggkhAY3nwX241qqnb/giphy.gif
+
+## Dino Game
+
+Here’s a preview of the Dino Game in action:
+![Dino Game GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWoybXpiaXBhaXZybGUyYTRub2MwdjljZG8za2hvNm96ZnpuZ3A4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GggkhAY3nwX241qqnb/giphy.gif)
 
 ## Materials Needed
 - **ESP32 TTGO T-Display** with TFT screen
